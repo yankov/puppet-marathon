@@ -1,0 +1,20 @@
+{
+  "manifests/property.pp": "d69eba829a2631df490986f9dc398176",
+  ".fixtures.yml": "74fa2721265f6df9289f3b6673c59dec",
+  "Gemfile": "f96d221387a56a1aa6814245e3489201",
+  "manifests/init.pp": "c1901b28324ca6c3435b7d710294fcfe",
+  "manifests/install.pp": "33cc4f392aceea6f844f6b709d9dad9e",
+  "manifests/repo.pp": "f8876ad57c95cc3d927e977828c8df40",
+  "manifests/config.pp": "b093469554f75b58da46b24fdf5fecad",
+  "README.md": "2708a916c96526055cdb339d5684cbde",
+  "metadata.json": "24f2869a641026382d87949da005e86a",
+  "spec/spec_helper_system.rb": "776e84332983f54d0b9a23998af50350",
+  "spec/defines/property_spec.rb": "c4f46ba21cf2911fc965b0df8ee23045",
+  "spec/spec_helper.rb": "a880c6d6d2e7202cc6c83c136016964c",
+  ".travis.yml": "cf43e08d20eb4084836fc56a0dde5efd",
+  "Rakefile": "3044cde52b8cd8508c8400076a66ef11",
+  "manifests/service.pp": "f87f6946787091afbaa0d9c9cb2ddf83",
+  "manifests/params.pp": "45d63bf47948b11143b06b0df391d8d0",
+  "LICENSE": "e17560d86596278bcf449a4246b346b8",
+  "spec/classes/init_spec.rb": "cfbf08c11aa05c672aa83f6b4fbf40c3"
+}
